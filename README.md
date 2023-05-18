@@ -1,7 +1,7 @@
 ### About me! 👋
 🌱 I’m currently learning web full stack development!
 
-<img src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e4752q0ubry1o7wmidde96k1xa4l64en6l8c9219ic3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150px" height="150px" alt="gif coder"/>
+<img src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e4752q0ubry1o7wmidde96k1xa4l64en6l8c9219ic3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400px" height="150px" alt="gif coder"/>
 
 😄 I’m looking to collaborate on many interesting projects when i´m ready to work with it!
 
