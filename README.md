@@ -12,3 +12,5 @@
 <img src="https://media3.giphy.com/media/fwbZnTftCXVocKzfxR/200.webp?cid=ecf05e47t8ibz15vkf5ljume06wyux4e4hja0hg9223aqcd5&ep=v1_gifs_search&rid=200.webp&ct=g" width="300px" height="200px" alt="gif html"/><img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="170px" height="170px" alt="icono html"/><img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="170px" height="170px" alt="icono css"/><img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" width="170px" height="170px" alt="icono js"/>
 
 
+Contact: 
+miguelpechero80@gmail.com or text me at linkedIn!
